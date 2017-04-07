@@ -10,4 +10,5 @@ nnoremap j gj
 nnoremap k gk
 colorscheme elflord 
 set guifont=Hack
+set splitright
 
